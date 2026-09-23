@@ -8,6 +8,11 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows)
 ![Arch](https://img.shields.io/badge/arch-x64-lightgrey?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+</div>
+
+<div align="center">
+  
+![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)
 
 </div>
 
