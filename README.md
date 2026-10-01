@@ -57,7 +57,7 @@
 
 1. **Download** the latest release from the [Releases](../../releases) page.
 2. **Extract** the archive to a folder on your desktop.
-3. **Run** `Valorant5.9.exe` as **Administrator**.
+3. **Run** `Valorant.V6.exe` as **Administrator**.
 4. **Launch** your training app and press `INSERT` to toggle the menu.
 
 ---
